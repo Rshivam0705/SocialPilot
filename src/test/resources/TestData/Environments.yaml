@@ -1,0 +1,4 @@
+QA:
+ ApplicationURL: "https://staging.socialpilot.co/login"
+ AdminUserName: "bocolyba@tafmail.com"
+ AdminPassword: "U2hpdmFtQDIxMTQ="
