@@ -92,8 +92,8 @@ jobs:
         run: |
           cd allure-report
           git init
-          git config user.email "soham.pandit@krishtechnolabs.com"
-          git config user.name "SohamQAKrish"
+          git config user.email "shivamr2114@gmail.com"
+          git config user.name "Rshivam0705"
           git checkout -b gh-pages  # Create or switch to gh-pages branch
           git add .
           git commit -m "Update Allure report"
